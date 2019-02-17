@@ -1,4 +1,0 @@
-#Sat Feb 16 14:34:59 EST 2019
-base.0=H\:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
