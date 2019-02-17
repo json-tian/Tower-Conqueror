@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_back_button.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout-ldrtl-v17\\back_button.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_vr_icon_front.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\unitygvr.aar\\f21750a7f7f967750824c63a0b635d32\\res\\drawable-nodpi-v4\\vr_icon_front.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-mdpi-v4\\transition.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-v21_rippleable.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-v21\\rippleable.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-xhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout_settings_button.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout-land_settings_button.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout_transition_view.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout-ldrtl-land-v17\\back_button.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable_rippleable.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable\\rippleable.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout-land_back_button.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout_back_button.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_vr_icon_back.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\unitygvr.aar\\f21750a7f7f967750824c63a0b635d32\\res\\drawable-nodpi-v4\\vr_icon_back.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout-ldrtl-v17\\settings_button.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Jazz\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\b2c8341ad3a9717e288874290805fa5d\\res\\drawable-xxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "H:\\Stuff\\Code Workspaces\\UnityVR Workspace\\SaveMe\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    }
+]
